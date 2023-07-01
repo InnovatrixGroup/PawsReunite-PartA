@@ -2,6 +2,15 @@
 
 [Click here](https://github.com/InnovatrixGroup/PawsReunite-PartA) to access the GitHub Repository.
 
+## Table of Contents
+
+1. [Description](#description)
+2. [Dataflow Diagram](#dataflow-diagram)
+3. [Application Architecture Diagram](#application-architecture-diagram)
+4. [User Stories](#user-stories)
+5. [Wireframes](#wireframes)
+6. [Project Planning and Management](#project-planning-and-management)
+
 ## Description
 
 ### Purpose
@@ -18,27 +27,27 @@ To create a lost/found pet post, users must create new accounts first, so they c
 
 Comparing to general users, admin users will have the authorisation to remove inappropriate or irrelevant content, such as spam or offensive posts. Admin users can also remove certain users and all related posts.
 
-### Report lost pet
+#### Report lost pet
 
 Pet owners can report their lost pets, providing details such as pet characteristics (including colour, breed and other descriptions), photos, last seen location and contact information.
 
-### Report found pet
+#### Report found pet
 
 Users who find a lost pet can report it, providing details such as pet description, photos, found location and contact information.
 
-### Pet Search
+#### Pet Search
 
 Users can search for lost pets based on location, colour, breed, or other characteristics. Based on the provided information, the application will display a list of lost pets that match the search criteria.
 
-### Communication
+#### Communication
 
 To facilitate better communication between the users, users can leave comments under the lost/found pet posts so they can provide helpful information if available.
 
-### Pet Care Resources
+#### Pet Care Resources
 
 Users are able to find information about pet care on the platform. This information includes articles, tips, and links to other websites.
 
-### Potential Match and Notification (Nice to have): 
+#### Potential Match and Notification (Nice to have): 
 
 The application runs a matching algorithm to connect lost pets with found pet based on similar characteristics, such as breed, colour, or lost/found location. Users will receive in-app and email notifications when a potential match is found.
 
@@ -71,15 +80,9 @@ The target audience for PawsReunite is pet owners, people who have found lost pe
 
 ## Application Architecture Diagram
 
-
-
 ## User Stories
 
-
-
 ## Wireframes
-
-
 
 ## Project Planning and Management
 
