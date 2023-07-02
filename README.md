@@ -19,7 +19,8 @@ According to estimates, one out of every three pets will go missing at some poin
 
 The purpose of PawsReunite is to help pet owners find their lost pets and to help people who have found lost pets find their owners. This is a valuable service because lost pets can be very difficult to find, and even if they are found, it can be difficult to track down their owners. This web application can help to bridge this gap by providing a central platform where pet owners and people who have found lost pets can connect.
 
-### Functionality/Feature
+____
+### Functionality/ Feature
 
 #### User Registration and Authentication: 
    
@@ -51,10 +52,12 @@ Users are able to find information about pet care on the platform. This informat
 
 The application runs a matching algorithm to connect lost pets with found pet based on similar characteristics, such as breed, colour, or lost/found location. Users will receive in-app and email notifications when a potential match is found.
 
+____
 ### Target Audience
 
 The target audience for PawsReunite is pet owners, people who have found lost pets, and animal shelters or rescue organizations. Pet owners are the primary users of this application, as they are the ones who are most likely to be looking for lost pets. People who have found lost pets are also potential users, as they may be looking for a way to reunite the pet with its owner. Animal shelters and rescue organizations can also use this app to help find homes for lost pets.
 
+____
 ### Tech Stack
 
 
