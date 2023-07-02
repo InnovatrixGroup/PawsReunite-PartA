@@ -98,6 +98,7 @@ ____
 #### Other tools
 
 - [Figma](https://www.figma.com/)
+- [InDesign](https://www.adobe.com/au/products/indesign.html)
 - [Miro](https://miro.com/app/dashboard/)
 
 ## Dataflow Diagram
