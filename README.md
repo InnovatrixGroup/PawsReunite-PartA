@@ -80,6 +80,37 @@ The target audience for PawsReunite is pet owners, people who have found lost pe
 
 ## Application Architecture Diagram
 
+![Application Architecture Diagram](./docs/Application%20Architecture%20disgram.png)
+
+### Client Side
+
+Our web application is built with compatibility in mind, ensuring it can be accessed by a wide range of modern browsers. Whether you prefer Chrome, Firefox, Safari, Edge, or any other popular browser, you can rest assured that our application is designed to work smoothly and efficiently on each of them. 
+___
+### Frontend User Interface Layer
+Frontend Components: This layer includes the user interface components that users interact with, such as web pages, forms, search interfaces.
+
+____
+### Backend Application Layer
+1. Web Server: The web server handles incoming requests from clients and routes them to the appropriate backend components.
+
+2. Application Logic: This layer contains the core logic of the application, including handling lost and found pet postings, search functionality, and interactions with the database.
+
+3. API Gateway: Acts as a single entry point for clients to access backend services and manages API requests and responses.
+
+___
+### Services and Integration Layer
+
+1. Database: Stores and manages data related to lost and found pet postings, user profiles, and other relevant information. The database is a NoSQL database MongoDB.
+
+2. Email Service: Integrates with an email delivery service (e.g., SendGrid, AWS SES) to send email notifications to users, such as when a lost pet is found or when there are matching search results. (Nice to have)
+
+3. SMS Service: If you want to provide SMS notifications, you can integrate with an SMS gateway service (e.g., Twilio, Nexmo) to send text messages to users. (Nice to have)
+
+4. Image Storage: External cloud storage service (e.g., Amazon S3, Google Cloud Storage) to store and retrieve pet images uploaded by users.
+
+5. External APIs: User authentication or mapping services for additional geolocation features. (Maybe)
+
+
 ## User Stories
 
 ## Wireframes
