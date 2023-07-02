@@ -60,7 +60,45 @@ The target audience for PawsReunite is pet owners, people who have found lost pe
 ____
 ### Tech Stack
 
+#### Frontend
 
+- HTML5
+- CSS with [Tailwind framework](https://tailwindcss.com/)
+- JavaScript
+- [ReactJS](https://react.dev/)
+
+#### Backend
+
+- [NodeJS](https://nodejs.org/en)
+- [ExpressJS](https://expressjs.com/)
+
+#### Database
+
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/docs/)
+
+#### DevOps
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Git](https://git-scm.com/)
+- [Github](https://github.com/)
+- [Notion](https://www.notion.so/product)
+- [Discord](https://discord.com/)
+
+#### Deployment
+
+- Frontend: [Netlify](https://www.netlify.com/)
+- Backend: [Heroku](https://www.heroku.com/home)
+
+#### Testing
+
+- [Jest](https://jestjs.io/)
+- [Supertest](https://github.com/ladjs/supertest)
+
+#### Other tools
+
+- [Figma](https://www.figma.com/)
+- [Miro](https://miro.com/app/dashboard/)
 
 ## Dataflow Diagram
 
