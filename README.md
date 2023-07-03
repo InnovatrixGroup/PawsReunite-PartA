@@ -157,6 +157,48 @@ ___
 
 ## Wireframes
 
+![wireframe](./docs/PawsReunite.png)
+Mobile, tablet and desktop version
+
+### Mobile Version
+![mobile wireframe](./docs/PawsReunite2.png)
+mobile pages and features overview
+
+![mobile wireframe](./docs/PawsReunite3.png)
+![mobile wireframe](./docs/PawsReunite4.png)
+![mobile wireframe](./docs/PawsReunite5.png)
+![mobile wireframe](./docs/PawsReunite6.png)
+![mobile wireframe](./docs/PawsReunite7.png)
+![mobile wireframe](./docs/PawsReunite8.png)
+![mobile wireframe](./docs/PawsReunite9.png)
+
+### Table Version
+![Tablet wireframe](./docs/PawsReunite10.png)
+tablet pages and features overview
+
+![Tablet wireframe](./docs/PawsReunite11.png)
+![Tablet wireframe](./docs/PawsReunite12.png)
+![Tablet wireframe](./docs/PawsReunite13.png)
+![Tablet wireframe](./docs/PawsReunite14.png)
+![Tablet wireframe](./docs/PawsReunite15.png)
+![Tablet wireframe](./docs/PawsReunite16.png)
+
+### Desktop Version
+![Desktop wireframe](./docs/PawsReunite17.png)
+desktop pages and features overview
+
+![Desktop wireframe](./docs/PawsReunite18.png)
+![Desktop wireframe](./docs/PawsReunite19.png)
+![Desktop wireframe](./docs/PawsReunite20.png)
+![Desktop wireframe](./docs/PawsReunite21.png)
+![Desktop wireframe](./docs/PawsReunite22.png)
+![Desktop wireframe](./docs/PawsReunite23.png)
+
+
+
+
+
+
 ## Project Planning and Management
 
 
