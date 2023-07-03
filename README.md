@@ -177,11 +177,11 @@ ___
 9. As a admin user, I want to have the ability to remove inappropriate or irrelevant posts or users from the platform, so that I can help maintain a positive and safe environment for users.
 
 ___
-### Improvements Made
+### Improvements
 
 After researching the functionalities of similar products on the market, and during the development of wireframes, we found that some of the original user stories were not clearly expressed or logically sound. So some improvements have been made.
 
-#### Improved the feature for users to update the post
+#### 1. Improved the feature for users to update the post
 
 Before:
 
@@ -192,7 +192,7 @@ After:
 > 1. As a pet owner, I want to edit my post regarding lost pet, so that I can update any missing information of my pet.
 > 2. As a pet owner/finder, I want to delete my post regarding lost/found pet, so that my contact information won't be disclosed to unrelated users.
 
-#### Added clearer description of the notification type
+#### 2. Added clearer description of the notification type
 
 Before:
 
@@ -202,7 +202,7 @@ After:
 
 > As a pet owner, I want to receive ***email and in-app*** notifications when a potential match is found between my lost pet report and a found pet, so that I can be informed about potential reunions with my pet.
 
-#### Split the administrator feature into two
+#### 3. Split the administrator feature into two
    
 Before:
 
@@ -213,7 +213,7 @@ After:
 > 1. As an administrator, I want to have the authorisation to remove inappropriate or irrelevant content, such as spam or offensive posts, from the platform, so that I can help maintain a positive and safe environment for users.
 > 2. As an administrator, I want to have the authorisation to remove a registered user from the database if being requested by the user, so that I can fulfill the customer's request.
 
-#### Added another user story to achieve a better customer experience.
+#### 4. Added another user story to achieve a better customer experience.
 
 >As a pet owner/finder, I want to be able to find the contact information of the application development team, so that I can provide suggestions about the application.
 
