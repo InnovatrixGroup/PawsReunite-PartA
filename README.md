@@ -22,8 +22,8 @@ The purpose of PawsReunite is to help pet owners find their lost pets and to hel
 ____
 ### Functionality/ Feature
 
-#### User Registration and Authentication: 
-   
+#### User Registration and Authentication
+
 To create a lost/found pet post, users must create new accounts first, so they can be contacted when there is any update. 
 
 Comparing to general users, admin users will have the authorisation to remove inappropriate or irrelevant content, such as spam or offensive posts. Admin users can also remove certain users and all related posts.
@@ -98,8 +98,9 @@ ____
 #### Other tools
 
 - [Figma](https://www.figma.com/)
-- [InDesign](https://www.adobe.com/au/products/indesign.html)
+- [Adobe InDesign](https://www.adobe.com/au/products/indesign.html)
 - [Miro](https://miro.com/app/dashboard/)
+- [Adobe PhotoShop](https://www.adobe.com/au/products/photoshop.html)
 
 ## Dataflow Diagram
 
@@ -155,6 +156,83 @@ ___
 
 ## User Stories
 
+### Personas
+Three personas have been identified at the early stage of the project planning:
+
+- A pet owner who lost their pet and needs a free and easy-to-use web application that allows them to post the lost pet's information and photos so that other users can help them find the pet.
+- A person who has found a lost pet in the neighbourhood wants to post the pet's information and photos online so the owner can be reunited with their pet.
+- An administrator who wants the authorisation to monitor user activities, and manage the registered users and posts.
+
+___
+### Initial User Stories
+
+1. As a pet owner, I want to register an account, so that I can report my lost pet.
+2. As a pet owner/finder, I want to report a lost/found pet by providing detailed information such as pet characteristics, last seen location, and photos, so that others can help in the search and identification process.
+3. As a pet owner/finder, I want to search for lost pets based on specific characteristics such as species, breed, and colour, so that I can identify potential match with my lost/found pet.
+4. As a pet owner, I want to update the status of my post regarding lost pet, so that others know that the search can be closed.
+5. As a pet owner, I want to access pet care resources, so that I can educate myself and provide care for my pet.
+6. As a pet owner/finder, I want to manage my user profile, so that my contact information is up to date.
+7. (*Nice to have*) As a pet owner, I want to receive notifications when a potential match is found between my lost pet and a found pet, so that I can be informed about potential reunions with my pet.
+8. As a pet finder, I want to leave comments on the posts, so that I can provide additional information or updates.
+9. As a admin user, I want to have the ability to remove inappropriate or irrelevant posts or users from the platform, so that I can help maintain a positive and safe environment for users.
+
+___
+### Improvements Made
+
+After researching the functionalities of similar products on the market, and during the development of wireframes, we found that some of the original user stories were not clearly expressed or logically sound. So some improvements have been made.
+
+#### Improved the feature for users to update the post
+
+Before:
+
+> As a pet owner, I want to update the status of my post regarding lost pet, so that others know that the search can be closed.
+
+After:
+
+> 1. As a pet owner, I want to edit my post regarding lost pet, so that I can update any missing information of my pet.
+> 2. As a pet owner/finder, I want to delete my post regarding lost/found pet, so that my contact information won't be disclosed to unrelated users.
+
+#### Added clearer description of the notification type
+
+Before:
+
+> As a pet owner, I want to receive notifications when a potential match is found between my lost pet and a found pet, so that I can be informed about potential reunions with my pet.
+
+After:
+
+> As a pet owner, I want to receive ***email and in-app*** notifications when a potential match is found between my lost pet report and a found pet, so that I can be informed about potential reunions with my pet.
+
+#### Split the administrator feature into two
+   
+Before:
+
+> As an admin user, I want to have the ability to remove inappropriate or irrelevant posts or users from the platform, so that I can help maintain a positive and safe environment for users.
+
+After:
+
+> 1. As an administrator, I want to have the authorisation to remove inappropriate or irrelevant content, such as spam or offensive posts, from the platform, so that I can help maintain a positive and safe environment for users.
+> 2. As an administrator, I want to have the authorisation to remove a registered user from the database if being requested by the user, so that I can fulfill the customer's request.
+
+#### Added another user story to achieve a better customer experience.
+
+>As a pet owner/finder, I want to be able to find the contact information of the application development team, so that I can provide suggestions about the application.
+
+___
+### User Stories After Improvements
+
+1. As a pet owner, I want to register an account, so that I can report my lost pet.
+2. As a pet owner/finder, I want to report a lost/found pet by providing detailed information such as pet characteristics, last seen location, and photos, so that others can help in the search and identification process.
+3. As a pet owner/finder, I want to search for lost pets based on specific characteristics such as species, breed, and colour, so that I can identify potential match with my lost/found pet.
+4. As a pet owner, I want to edit my post regarding lost pet, so that I can update any missing information of my pet.
+5. As a pet owner/finder, I want to delete my post regarding lost/found pet, so that my contact information won't be disclosed to unrelated users.
+6. As a pet owner, I want to access pet care resources, so that I can educate myself and provide better care for my pet.
+7. As a pet owner/user, I want to manage my user profile, so that my contact information is up to date.
+8. (*Nice to have*) As a pet owner, I want to receive email and in-app notifications when a potential match is found between my lost pet report and a found pet, so that I can be informed about potential reunions with my pet.
+9. As a pet finder, I want to leave comments on the posts so that I can provide additional information or updates.
+10. As a pet owner/finder, I want to be able to find the contact information of the application development team, so that I can provide suggestions about the application.
+11. As an administrator, I want to have the authorisation to remove inappropriate or irrelevant content, such as spam or offensive posts, from the platform, so that I can help maintain a positive and safe environment for users.
+12. As an administrator, I want to have the authorisation to remove a registered user from the database if being requested by the user, so that I can fulfill the customer's request.
+
 ## Wireframes
 
 ![wireframe](./docs/PawsReunite.png)
@@ -200,5 +278,4 @@ desktop pages and features overview
 
 
 ## Project Planning and Management
-
 
