@@ -63,7 +63,7 @@ ____
 #### Frontend
 
 - HTML5
-- CSS with [Tailwind framework](https://tailwindcss.com/)
+- CSS with [Tailwind](https://tailwindcss.com/)
 - JavaScript
 - [ReactJS](https://react.dev/)
 
@@ -77,6 +77,11 @@ ____
 - [MongoDB](https://www.mongodb.com/)
 - [Mongoose](https://mongoosejs.com/docs/)
 
+#### Deployment
+
+- Frontend: [Netlify](https://www.netlify.com/)
+- Backend: [Heroku](https://www.heroku.com/home)
+
 #### DevOps
 
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -84,11 +89,6 @@ ____
 - [Github](https://github.com/)
 - [Notion](https://www.notion.so/product)
 - [Discord](https://discord.com/)
-
-#### Deployment
-
-- Frontend: [Netlify](https://www.netlify.com/)
-- Backend: [Heroku](https://www.heroku.com/home)
 
 #### Testing
 
@@ -104,19 +104,19 @@ ____
 
 ## Dataflow Diagram
 
-### User Management
+### User
 
 ![Dataflow diagram - User Management](./docs/DFD-user%20management.png)
 
-### Lost/Found Pet Post Management
+### Lost/Found Pet Posts 
 
 ![Dataflow diagram - Lost/Found Pet Post Management](./docs/DFD-pet%20post%20management.png)
 
-### Comment Management
+### Comments
 
 ![Dataflow diagram - Comment Management](./docs/DFD-comment%20management.png)
 
-### User Notifications
+### Notifications
 
 ![Dataflow diagram - User Notifications](./docs/DFD-notification%20management.png)
 
@@ -271,11 +271,6 @@ desktop pages and features overview
 ![Desktop wireframe](./docs/PawsReunite21.png)
 ![Desktop wireframe](./docs/PawsReunite22.png)
 ![Desktop wireframe](./docs/PawsReunite23.png)
-
-
-
-
-
 
 ## Project Planning and Management
 
