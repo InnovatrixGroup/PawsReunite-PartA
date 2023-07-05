@@ -17,7 +17,7 @@
 
 According to estimates, one out of every three pets will go missing at some point in their lives. Millions of pets are missing every year, and many of them may never return home.
 
-The purpose of PawsReunite is to help pet owners find their lost pets and to help people who have found lost pets find their owners. This is a valuable service because lost pets can be very difficult to find, and even if they are found, it can be difficult to track down their owners. This web application can help to bridge this gap by providing a central platform where pet owners and people who have found lost pets can connect.
+The purpose of PawsReunite is to help pet owners find their lost pets and to help people who have found lost pets find their owners. This is a valuable service because lost pets can be very difficult to find, and even if they are found, it can be difficult to track down their owners. This web application can bridge this gap by providing a central platform where pet owners and people who have found lost pets can connect.
 
 ____
 ### Functionality/ Feature
@@ -203,7 +203,7 @@ After:
 > As a pet owner, I want to receive ***email and in-app*** notifications when a potential match is found between my lost pet report and a found pet, so that I can be informed about potential reunions with my pet.
 
 #### 3. Split the administrator feature into two
-   
+
 Before:
 
 > As an admin user, I want to have the ability to remove inappropriate or irrelevant posts or users from the platform, so that I can help maintain a positive and safe environment for users.
@@ -272,5 +272,43 @@ desktop pages and features overview
 ![Desktop wireframe](./docs/PawsReunite22.png)
 ![Desktop wireframe](./docs/PawsReunite23.png)
 
-## Project Planning and Management
+## Project Management
+
+The project implements the Agile methodology for software development, which is known for its iterative and collaborative approach. The project management process consists of five essential components: Board, Epics, User Stories, Tasks, and Sprints. Below is a brief introduction to each component, with further details available in the provided reference: [PawsReunite - Project Management](https://probable-attack-887.notion.site/PawsReunite-4c79a39941db4457a8a2876427bdbd5b)
+
+### Board
+
+Board is the visualisation of on-going user stories and tasks in current sprint. It provides an easily accessible overview of the project's status and progress. By glancing at the board, team members can quickly grasp the ongoing activities and gain an understanding of the overall project progress.
+
+![board](docs/Boards.png)
+
+### Sprints
+
+In this project, each sprint lasts for one week. At the start of every sprint, a sprint planning session takes place. During this session, the team members assesses the work to be undertaken in the upcoming sprint and allocates specific tasks and work items to individual team members. This ensures that the team starts each sprint with a clear and well-defined plan, promoting efficiency and productivity throughout the development process.
+
+![sprints](./docs/sprints.png)
+
+### Epics
+
+An epic is a large body of work that fit a single theme and can be broken down into a number of smaller user stories. 6 epics have been developed in this project. 
+
+![epics](./docs/epics.png)
+
+### User Stories
+
+Based on the previously mentioned user stories section, the project has developed and documented a total of 12 user stories. These user stories have been categorized into different epics, as defined earlier. In the following development, the priority of each user story will be determined and allocated accordingly. During the sprint planning session, the user stories will be assigned to respective team members.
+
+![user stories](./docs/user%20stories.png)
+
+### Tasks
+
+In each sprint, every team member is assigned a set of tasks to work on. Once a task is completed, the assignee updates its status and records the hours spent on the task. This enables effective tracking of each team member's time utilization and availability.
+
+In the following development, after the developer gets the assigned user stories, they can create various tasks under the user stories. These tasks can include analysis, development, testing, and code review tasks. By breaking down user stories into specific tasks, the development process becomes more manageable and allows for better collaboration among team members.
+
+![tasks](docs/tasks.png)
+
+![tasks - detail](docs/tasks%20-%20detail.png)
+
+
 
